@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8728ed8-3409-4b98-88d3-c656abc2857b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sklearnDemo/sklearn_demo3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/.idea/try.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/model_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/model_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/rankingcard.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/rankingcard.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/sklearn_demo1 .py" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/sklearn_demo1 .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/sklearn_demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/sklearn_demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/sklearn_demo3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/vali_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/vali_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/评分卡模型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/评分卡模型.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try/逻辑回归.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/逻辑回归.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +243,7 @@
       <workItem from="1611832400079" duration="1169000" />
       <workItem from="1611833806021" duration="7506000" />
       <workItem from="1611885481413" duration="850000" />
-      <workItem from="1611887158122" duration="12381000" />
+      <workItem from="1611887158122" duration="12660000" />
     </task>
     <task id="LOCAL-00001" summary="update: 评分卡构建训练数据">
       <created>1611903979911</created>
@@ -267,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611903979911</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update: 逻辑回归demo完成">
+      <created>1611922462338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611922462338</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -285,7 +277,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update: 评分卡构建训练数据" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 评分卡构建训练数据" />
+    <MESSAGE value="update: 逻辑回归demo完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 逻辑回归demo完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="118" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611833826988">
@@ -296,10 +289,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="464" y="195" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1611839931611" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1611903976570">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1611922460151">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611903976570" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611922460151" />
     <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1611825504898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
