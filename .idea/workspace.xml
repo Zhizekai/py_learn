@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8728ed8-3409-4b98-88d3-c656abc2857b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearn/.ipynb_checkpoints/py_demo5 sklearnTry-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearn/py_demo5 sklearnTry.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/.idea/try.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/rankingcard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/sklearn_demo1 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/sklearn_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/sklearn_demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/评分卡模型.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try/逻辑回归.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zzkml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zzkml.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonLearn/py_demo3 numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonLearn/py_demo3 numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonLearn/py_demo4 pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonLearn/py_demo4 pandas.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +52,23 @@
   </component>
   <component name="JupyterTrust" id="f2da1d05-4126-41e6-8925-6c7daefde6cd" />
   <component name="ProjectId" id="1Z40iJlMTKYbPB1CRJeId0FqJhW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/try" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -63,13 +80,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Project\zzkml\try" />
       <recent name="G:\Project\zzkml\tfTest\logs\gradient_tape\20191114-183511" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Project\zzkml\SGD" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.npTest">
+  <component name="RunManager" selected="Python.sklearn_demo3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,50 +102,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="huashu" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zzkml" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SGD" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SGD/huashu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mnistTry" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zzkml" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classify_image" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classify_image/mnistTry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regressionTry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sklearn_demo1 " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,12 +162,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classify_image" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classify_image/regressionTry.py" />
+      <option name="SCRIPT_NAME" value="G:\Project\zzkml\try\sklearn_demo1 .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearn_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zzkml" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/sklearn_demo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearn_demo3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zzkml" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/sklearn_demo3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,19 +215,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.huashu" />
-      <item itemvalue="Python.mnistTry" />
       <item itemvalue="Python.npTest" />
       <item itemvalue="Python.regissionL" />
-      <item itemvalue="Python.regressionTry" />
+      <item itemvalue="Python.sklearn_demo1 " />
+      <item itemvalue="Python.sklearn_demo2" />
+      <item itemvalue="Python.sklearn_demo3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sklearn_demo3" />
+        <item itemvalue="Python.sklearn_demo2" />
+        <item itemvalue="Python.sklearn_demo1 " />
         <item itemvalue="Python.npTest" />
         <item itemvalue="Python.regissionL" />
-        <item itemvalue="Python.regressionTry" />
-        <item itemvalue="Python.mnistTry" />
-        <item itemvalue="Python.huashu" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +256,11 @@
       <workItem from="1574341494923" duration="992000" />
       <workItem from="1584083191310" duration="8592000" />
       <workItem from="1611725536424" duration="1228000" />
+      <workItem from="1611824661856" duration="816000" />
+      <workItem from="1611832400079" duration="1169000" />
+      <workItem from="1611833806021" duration="7506000" />
+      <workItem from="1611885481413" duration="850000" />
+      <workItem from="1611887158122" duration="9000000" />
     </task>
     <servers />
   </component>
@@ -259,43 +276,82 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1611729623112">
+    <state x="118" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611833826988">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="550" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611729623112" />
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1611730086481">
+    <state x="118" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611833826988" />
+    <state x="464" y="195" key="#xdebugger.evaluate" timestamp="1611839931611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611730086481" />
-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1611730086481">
+    <state x="464" y="195" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1611839931611" />
+    <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1611825504898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611730086481" />
-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1611730086480">
+    <state x="550" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611825504898" />
+    <state width="1493" height="339" key="GridCell.Tab.0.bottom" timestamp="1611839973002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611730086480" />
-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1611730086481">
+    <state width="1493" height="339" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611839973002" />
+    <state width="1493" height="339" key="GridCell.Tab.0.center" timestamp="1611839973002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611730086481" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1611729740396">
+    <state width="1493" height="339" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611839973002" />
+    <state width="1493" height="339" key="GridCell.Tab.0.left" timestamp="1611839973002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611729740396" />
+    <state width="1493" height="339" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611839973002" />
+    <state width="1493" height="339" key="GridCell.Tab.0.right" timestamp="1611839973002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611839973002" />
+    <state width="1493" height="339" key="GridCell.Tab.1.bottom" timestamp="1611839973003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611839973003" />
+    <state width="1493" height="339" key="GridCell.Tab.1.center" timestamp="1611839973003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611839973003" />
+    <state width="1493" height="339" key="GridCell.Tab.1.left" timestamp="1611839973003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611839973003" />
+    <state width="1493" height="339" key="GridCell.Tab.1.right" timestamp="1611839973003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="339" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611839973003" />
+    <state x="364" y="36" key="SettingsEditor" timestamp="1611888930753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="364" y="36" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611888930753" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611725598339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611725598339" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1611725536419">
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1611835780900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1611725536419" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1611835780900" />
+    <state x="273" y="117" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1611840879874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="273" y="117" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1536.824@0.0.1536.824" timestamp="1611840879874" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1611887158061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1611887158061" />
     <state x="489" y="203" key="git4idea.merge.GitPullDialog" timestamp="1611725572692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="489" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1611725572692" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611900131696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611900131696" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -314,14 +370,6 @@
     <SUITE FILE_PATH="coverage/zzkml$npTest.coverage" NAME="npTest Coverage Results" MODIFIED="1584086792904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SGD" />
     <SUITE FILE_PATH="coverage/zzkml$regressionTry.coverage" NAME="regressionTry Coverage Results" MODIFIED="1574167166305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classify_image" />
     <SUITE FILE_PATH="coverage/zzkml$dijkstra.coverage" NAME="dijkstra Coverage Results" MODIFIED="1573396061149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dijkstra" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>len(found)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
+    <SUITE FILE_PATH="coverage/zzkml$sklearnStudy.coverage" NAME="sklearnStudy Coverage Results" MODIFIED="1611839890033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
   </component>
 </project>
