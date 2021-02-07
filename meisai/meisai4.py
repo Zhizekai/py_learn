@@ -40,14 +40,17 @@ from pyecharts.charts import Graph
 
 # %%
 def generate_nodes_links():
-    nodes_data1 = []
-    # 节点数据
+    nodes_data1 = []  # 节点数据
     for i in np.arange(len(influence_man_nodes)):
-        nodes_data1.append(opts.GraphNode(name=influence_man_nodes["person"][i], symbol_size=10))
-    links_data1 = []
+        nodes_data1.append(opts.GraphNode(name=influence_man_nodes["person"][i],
+                                          symbol_size=10,
+                                          # category=
+                                          ))
+    links_data1 = []  # 关系数据 边数据
     for i in np.arange(len(influence_man_data)):
         links_data1.append(opts.GraphLink(source=influence_man_data["follower_name"][i],
-                                          target=influence_man_data["influencer_name"][i], value=2))
+                                          target=influence_man_data["influencer_name"][i],
+                                          value=2))
     return nodes_data, links_data
 
 
@@ -58,15 +61,23 @@ nodes_data, links_data = generate_nodes_links()
 c = (
     Graph(
         init_opts=opts.InitOpts(width="100%", height="700px",
-                                renderer="canvas"# 渲染模式 svg 或 canvas，即 RenderType.CANVAS 或 RenderType.SVG
+                                renderer="canvas"  # 渲染模式 svg 或 canvas，即 RenderType.CANVAS 或 RenderType.SVG
                                 )
     ).add(
         "",
         nodes_data,
         links_data,
+        categories=[
+            {"name": "木类节点", "symbol": "rect"},
+            {"name": "火类节点", "symbol": "roundRect"},
+            {"name": "土类节点", "symbol": "triangle"},
+            {"name": "金类节点", "symbol": "diamond"},
+            {"name": "水类节点", "symbol": "pin"},
+        ],
         repulsion=50,
         linestyle_opts=opts.LineStyleOpts(curve=0.2),
         label_opts=opts.LabelOpts(is_show=False),
+        edge_symbol=['none', 'arrow']
     ).set_global_opts(
         legend_opts=opts.LegendOpts(is_show=False),
         # title_opts=opts.TitleOpts(title="Graph-GraphNode-GraphLink-WithEdgeLabel"),

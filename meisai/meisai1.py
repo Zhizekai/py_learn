@@ -145,6 +145,8 @@ influence_man_data2.index = np.arange(len(influence_man_data2))
 influence_man_data2.to_csv("./influence_man_data2.csv", index=False)
 # pd.concat(influence_man_data2[])
 # %%
+
+
 influence_man_data2["is_in_person"] = (influence_man_data2["is_in_person"] - influence_man_data2[
     "is_in_person"].min()) / (influence_man_data2["is_in_person"].max() - influence_man_data2["is_in_person"].min())
 influence_man_data2["not_in_person"] = (influence_man_data2["not_in_person"] - influence_man_data2[
