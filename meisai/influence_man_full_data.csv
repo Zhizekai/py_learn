@@ -1,0 +1,40 @@
+influencer_name,influence_value,influencer_id,influencer_main_genre,influencer_active_start,follower_id,follower_name,follower_main_genre,follower_active_start
+The Beatles,615,754032,Pop/Rock,1960,1098,Soundgarden,Pop/Rock,1980
+Bob Dylan,389,66915,Pop/Rock,1960,335,PJ Harvey,Pop/Rock,1990
+The Rolling Stones,319,894465,Pop/Rock,1960,2867,Pat Travers,Pop/Rock,1970
+David Bowie,238,531986,Pop/Rock,1960,10538,Spandau Ballet,Pop/Rock,1980
+Led Zeppelin,221,139026,Pop/Rock,1960,1098,Soundgarden,Pop/Rock,1980
+Jimi Hendrix,201,354105,Pop/Rock,1960,1098,Soundgarden,Pop/Rock,1980
+The Kinks,192,100160,Pop/Rock,1960,4955,Space,Pop/Rock,1990
+The Beach Boys,186,41874,Pop/Rock,1960,2330,Sergio Mendes,Easy Listening,1960
+Hank Williams,184,549797,Country,1930,14651,Patsy Cline,Country,1950
+The Velvet Underground,181,840402,Pop/Rock,1960,1098,Soundgarden,Pop/Rock,1980
+Black Sabbath,171,771438,Pop/Rock,1960,1098,Soundgarden,Pop/Rock,1980
+Marvin Gaye,169,316834,R&B;,1950,5307,Alicia Keys,R&B;,1990
+Elvis Presley,166,180228,Pop/Rock,1950,5882,T. Rex,Pop/Rock,1960
+Miles Davis,160,423829,Jazz,1940,2411,Tangerine Dream,Electronic,1960
+Chuck Berry,159,120521,Pop/Rock,1950,5882,T. Rex,Pop/Rock,1960
+The Byrds,158,631774,Pop/Rock,1960,12472,Traffic,Pop/Rock,1960
+James Brown,154,128099,R&B;,1950,8125,Sharon Jones & the Dap-Kings,R&B;,2000
+Sex Pistols,153,418740,Pop/Rock,1970,7920,Alice in Chains,Pop/Rock,1980
+The Who,149,577627,Pop/Rock,1960,4955,Space,Pop/Rock,1990
+Neil Young,148,379125,Pop/Rock,1960,1098,Soundgarden,Pop/Rock,1980
+Pink Floyd,142,346336,Pop/Rock,1960,2411,Tangerine Dream,Electronic,1960
+Stevie Wonder,138,622805,R&B;,1960,5307,Alicia Keys,R&B;,1990
+The Clash,136,75747,Pop/Rock,1970,14699,Transvision Vamp,Pop/Rock,1980
+Brian Eno,135,617196,Pop/Rock,1970,10538,Spandau Ballet,Pop/Rock,1980
+Sam Cooke,128,238115,R&B;,1950,10538,Spandau Ballet,Pop/Rock,1980
+Ramones,127,490004,Pop/Rock,1970,1098,Soundgarden,Pop/Rock,1980
+John Coltrane,118,175553,Jazz,1940,6143,Alice Coltrane,Jazz,1960
+The Stooges,116,562304,Pop/Rock,1960,1098,Soundgarden,Pop/Rock,1980
+Joni Mitchell,116,270491,Pop/Rock,1960,9437,SHeDAISY,Country,1980
+Muddy Waters,113,608701,Blues,1940,13511,Sister Rosetta Tharpe,Religious,1930
+Ray Charles,113,46861,R&B;,1940,6613,Ali Farka Tour??,International,1970
+Johnny Cash,112,816890,Country,1950,3669,Southern Culture on the Skids,Pop/Rock,1980
+Metallica,112,446509,Pop/Rock,1980,441,P.O.D.,Pop/Rock,1990
+Nirvana,111,357406,Pop/Rock,1980,5501,System of a Down,Pop/Rock,1990
+Kraftwerk,108,104714,Electronic,1970,25394,Trio,Pop/Rock,1980
+Billie Holiday,106,79016,Vocal,1930,6334,Tony Bennett,Vocal,1940
+The Yardbirds,105,489303,Pop/Rock,1960,2867,Pat Travers,Pop/Rock,1970
+Roxy Music,103,852855,Pop/Rock,1970,10538,Spandau Ballet,Pop/Rock,1980
+Michael Jackson,101,467203,R&B;,1960,15158,Sisq?3,R&B;,1990

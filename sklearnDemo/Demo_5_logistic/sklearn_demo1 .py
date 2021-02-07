@@ -60,6 +60,7 @@ LR_C = LR(solver="liblinear", C=0.9, random_state=420)  # 逻辑回归
 cr_test = cross_val_score(LR_C, X, y, cv=10).mean()  # 交叉验证
 
 # %%%
+# 包装法
 X_embedded = SelectFromModel(LR_C, norm_order=1).fit_transform(X, y)  # 专门给逻辑回归降维的东西
 
 print(X_embedded.shape)  # (569, 9)

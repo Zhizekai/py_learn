@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8728ed8-3409-4b98-88d3-c656abc2857b" name="Default Changelist" comment="update: 开始看看论文">
-      <change afterPath="$PROJECT_DIR$/pythonLearn/py_demo6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonLearn/py_demo7 hmm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorchDemo/demo1_torch.py" afterDir="false" />
+    <list default="true" id="f8728ed8-3409-4b98-88d3-c656abc2857b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/data_by_artist.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/data_by_year.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/full_corr.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/full_music_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/full_music_data_sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/graph_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/graph_with_edge_options.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/graph_with_edge_options1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/influence_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/influence_man.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/influence_man_data2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/influence_man_data3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/influence_man_full_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/meisai1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/meisai2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/meisai3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/meisai4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/music.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/pop_rock_song.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/pop_rock_song_corr.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/sankey_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorchDemo/demo2_torch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SGD/.ipynb_checkpoints/npTest-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchDemo/SGD/.ipynb_checkpoints/npTest-checkpoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SGD/npTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchDemo/SGD/npTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/.ipynb_checkpoints/a-checkpoint.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/.ipynb_checkpoints/a-checkpoint.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/.ipynb_checkpoints/ff-checkpoint.png" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/.ipynb_checkpoints/ff-checkpoint.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/.ipynb_checkpoints/fff-checkpoint.png" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/.ipynb_checkpoints/fff-checkpoint.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/.ipynb_checkpoints/irisTry-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/.ipynb_checkpoints/irisTry-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/a.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/ff.png" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/ff.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/fff.png" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/fff.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irisTry/irisTry.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/irisTry.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonLearn/py_demo3 numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonLearn/py_demo3 numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sklearnDemo/Demo_5_logistic/sklearn_demo1 .py" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/Demo_5_logistic/sklearn_demo1 .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sklearnDemo/irisTry/irisTry.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sklearnDemo/irisTry/irisTry.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +79,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sklearnDemo/Demo_6_cluster" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meisai" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -76,18 +93,19 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Project\zzkml\meisai" />
+      <recent name="G:\Project\zzkml\try" />
+      <recent name="G:\Project\zzkml\tfTest\logs\gradient_tape\20191114-183511" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Project\zzkml\pytorchDemo" />
       <recent name="G:\Project\zzkml\sklearnDemo" />
       <recent name="G:\Project\zzkml\sklearnDemo\logisticDemo" />
       <recent name="G:\Project\zzkml\SGD" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Project\zzkml\try" />
-      <recent name="G:\Project\zzkml\tfTest\logs\gradient_tape\20191114-183511" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.demo1_torch">
+  <component name="RunManager" selected="Python.meisai4">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,17 +128,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo1_torch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo2_torch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorchDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchDemo/demo1_torch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchDemo/demo2_torch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,20 +150,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="meisai1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dijkstra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meisai" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dijkstra/dijkstra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meisai/meisai1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sklearn_demo1 " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="meisai2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +177,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meisai" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\Project\zzkml\try\sklearn_demo1 .py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meisai/meisai2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,20 +191,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sklearn_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="meisai3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meisai" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/sklearn_demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meisai/meisai3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,20 +210,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sklearn_demo3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="meisai4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meisai" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/sklearn_demo3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meisai/meisai4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,19 +230,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sklearn_demo1 " />
-      <item itemvalue="Python.sklearn_demo2" />
-      <item itemvalue="Python.sklearn_demo3" />
-      <item itemvalue="Python.dijkstra" />
-      <item itemvalue="Python.demo1_torch" />
+      <item itemvalue="Python.demo2_torch" />
+      <item itemvalue="Python.meisai1" />
+      <item itemvalue="Python.meisai2" />
+      <item itemvalue="Python.meisai3" />
+      <item itemvalue="Python.meisai4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo1_torch" />
-        <item itemvalue="Python.dijkstra" />
-        <item itemvalue="Python.sklearn_demo3" />
-        <item itemvalue="Python.sklearn_demo2" />
-        <item itemvalue="Python.sklearn_demo1 " />
+        <item itemvalue="Python.meisai4" />
+        <item itemvalue="Python.meisai1" />
+        <item itemvalue="Python.meisai3" />
+        <item itemvalue="Python.meisai2" />
+        <item itemvalue="Python.demo2_torch" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +282,13 @@
       <workItem from="1612165825003" duration="666000" />
       <workItem from="1612229417296" duration="1578000" />
       <workItem from="1612254543716" duration="935000" />
-      <workItem from="1612317017435" duration="11322000" />
+      <workItem from="1612317017435" duration="14498000" />
+      <workItem from="1612492807916" duration="1209000" />
+      <workItem from="1612526739481" duration="2206000" />
+      <workItem from="1612535859719" duration="473000" />
+      <workItem from="1612573903719" duration="36936000" />
+      <workItem from="1612660006205" duration="6708000" />
+      <workItem from="1612678640219" duration="5995000" />
     </task>
     <task id="LOCAL-00001" summary="update: 评分卡构建训练数据">
       <created>1611903979911</created>
@@ -300,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612063113528</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update: torch张量计算，矩阵拼接，cat">
+      <created>1612355457875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612355457876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -320,7 +345,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -331,7 +358,8 @@
     <MESSAGE value="update: 评分卡构建训练数据" />
     <MESSAGE value="update: 逻辑回归demo完成" />
     <MESSAGE value="update: 开始看看论文" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 开始看看论文" />
+    <MESSAGE value="update: torch张量计算，矩阵拼接，cat" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: torch张量计算，矩阵拼接，cat" />
   </component>
   <component name="WindowStateProjectService">
     <state x="118" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611833826988">
@@ -386,30 +414,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="364" y="36" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611888930753" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612063247868">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612355480925">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612063247868" />
-    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1612344553914">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612355480925" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1612362471678">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1612344553914" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1612362471678" />
     <state x="273" y="117" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1611840879874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="273" y="117" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1536.824@0.0.1536.824" timestamp="1611840879874" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1612317029666">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1612678640614">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1612317029666" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1612678640614" />
     <state x="489" y="203" key="git4idea.merge.GitPullDialog" timestamp="1611725572692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="489" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1611725572692" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611900131696">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612590484290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611900131696" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612590484290" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zzkml$try.coverage" NAME="try Coverage Results" MODIFIED="1573726747004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tfTest" />

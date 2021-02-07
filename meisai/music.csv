@@ -1,0 +1,288 @@
+,artist_names,song_val
+0,['Vladimir Horowitz'],332
+1,['The Rolling Stones'],298
+2,['The Beach Boys'],269
+3,['Wolfgang Amadeus Mozart'],221
+4,['The Beatles'],215
+5,['Frank Sinatra'],170
+6,['Billie Holiday'],160
+7,['The Kinks'],138
+8,['Bob Dylan'],136
+9,['Lata Mangeshkar'],136
+10,['Vicente Fern谩ndez'],131
+11,['Queen'],128
+12,['Elvis Presley'],126
+13,['Johnny Cash'],123
+14,['Ella Fitzgerald'],121
+15,['Thelonious Monk'],117
+16,['The Who'],113
+17,['Van Morrison'],112
+18,['Willie Nelson'],111
+19,['The Cure'],109
+20,['Dean Martin'],108
+21,['Fleetwood Mac'],106
+22,['Leonard Bernstein'],106
+23,['Miles Davis'],106
+24,['Waylon Jennings'],103
+25,['Talking Heads'],99
+26,['Taylor Swift'],97
+27,['Glenn Gould'],95
+28,['The Moody Blues'],92
+29,['Led Zeppelin'],83
+30,['Elton John'],79
+31,['The Ramones'],78
+32,['The Clash'],77
+33,['The Isley Brothers'],77
+34,['Nina Simone'],77
+35,['The Smiths'],76
+36,['Stevie Wonder'],73
+37,['Bob Marley & the Wailers'],70
+38,['Grateful Dead'],69
+39,['The Allman Brothers Band'],69
+40,['ZZ Top'],68
+41,['Marvin Gaye'],67
+42,['John Williams'],65
+43,['The Byrds'],64
+44,['U2'],63
+45,['Wings'],63
+46,['Wes Montgomery'],62
+47,['Metallica'],61
+48,['The Weeknd'],61
+49,['The Monkees'],60
+50,['Tom Waits'],60
+51,['The Ventures'],60
+52,['Doris Day'],60
+53,['Red Hot Chili Peppers'],60
+54,['Yes'],59
+55,['The Platters'],58
+56,['The Doors'],58
+57,['Oscar Peterson'],58
+58,['The Temptations'],56
+59,['Jimmy Buffett'],55
+60,['Javier Sol铆s'],54
+61,['Pink Floyd'],54
+62,['Charles Mingus'],54
+63,['Van Halen'],53
+64,['John Coltrane'],52
+65,['Townes Van Zandt'],51
+66,['The Animals'],51
+67,['Asha Bhosle'],51
+68,['David Bowie'],50
+69,['Billy Joel'],50
+70,['Thin Lizzy'],50
+71,['Michael Jackson'],49
+72,['Nat King Cole'],47
+73,['The Jackson 5'],46
+74,['The Dave Brubeck Quartet'],46
+75,['Tony Bennett'],46
+76,['Jackie Gleason'],46
+77,['The Replacements'],45
+78,['The Band'],45
+79,['Aretha Franklin'],45
+80,['Sam Cooke'],44
+81,['The Doobie Brothers'],44
+82,['George Strait'],44
+83,['Eric Clapton'],44
+84,['James Taylor'],43
+85,['Yves Montand'],42
+86,['Los Tigres del Norte'],42
+87,['Maria Callas'],41
+88,['System of a Down'],41
+89,['Otis Redding'],41
+90,['Sarah Vaughan'],41
+91,['Kiss'],40
+92,['B.B. King'],39
+93,"['Hank Williams, Jr.']",39
+94,['The Black Keys'],39
+95,['The Velvet Underground'],39
+96,['The Offspring'],39
+97,['Lefty Frizzell'],38
+98,['Bill Evans Trio'],38
+99,['Tool'],38
+100,['Genesis'],38
+101,['The Kingston Trio'],38
+102,['Sublime'],38
+103,['Julie London'],38
+104,['Journey'],38
+105,['The Mamas & the Papas'],38
+106,['Peggy Lee'],38
+107,['Rush'],38
+108,['Chet Baker'],37
+109,['Bee Gees'],37
+110,['John Prine'],37
+111,['R.E.M.'],37
+112,['AC/DC'],37
+113,['Marty Robbins'],36
+114,['Steely Dan'],35
+115,['Alabama'],35
+116,['Jos茅 Alfredo Jim茅nez'],35
+117,['Nirvana'],35
+118,['Bruce Springsteen'],35
+119,['Prince'],35
+120,['Chicago'],35
+121,['Tammy Wynette'],34
+122,['Antonio Aguilar'],34
+123,['Stevie Ray Vaughan'],34
+124,['The Strokes'],34
+125,['The Alan Parsons Project'],34
+126,['ABBA'],34
+127,['Lana Del Rey'],33
+128,['Eagles'],33
+129,['Aerosmith'],33
+130,['The 1975'],32
+131,['Jack Johnson'],32
+132,['The Impressions'],32
+133,['Tom Lehrer'],32
+134,['Green Day'],32
+135,['Ween'],31
+136,['The Cars'],31
+137,['Twenty One Pilots'],31
+138,['Whitney Houston'],31
+139,['Joni Mitchell'],31
+140,['Paul McCartney'],31
+141,['Megadeth'],31
+142,['The Police'],30
+143,['The Modern Jazz Quartet'],30
+144,['Trey Songz'],30
+145,['The Killers'],30
+146,['Depeche Mode'],30
+147,['Ted Nugent'],30
+148,['Judas Priest'],30
+149,['Carmen Miranda'],30
+150,['Neil Diamond'],30
+151,['Bob Seger'],30
+152,['Tears for Fears'],30
+153,['Santana'],30
+154,['Tame Impala'],29
+155,['Barbra Streisand'],29
+156,['Electric Light Orchestra'],29
+157,['Tennessee Ernie Ford'],29
+158,['George Jones'],29
+159,['Misfits'],29
+160,['Harry Belafonte'],29
+161,['Weezer'],29
+162,['Duran Duran'],29
+163,['Chuck Berry'],29
+164,['Alan Jackson'],28
+165,"['The Clancy Brothers', 'Tommy Makem']",28
+166,['Henry Mancini'],28
+167,['Neil Young'],28
+168,['Lady Gaga'],28
+169,['Los Bukis'],27
+170,['Daryl Hall & John Oates'],27
+171,['Tim McGraw'],27
+172,['The Guess Who'],27
+173,['Beyonc茅'],27
+174,['Johnny Mathis'],27
+175,['Radiohead'],27
+176,['Hank Williams'],27
+177,['The Supremes'],27
+178,['Andr茅 Previn'],27
+179,['Charlie Chaplin'],27
+180,['Erroll Garner'],27
+181,['Sonny Rollins'],27
+182,['Todd Rundgren'],27
+183,['James Brown'],27
+184,['Linkin Park'],27
+185,['John Denver'],27
+186,['Stan Getz'],26
+187,['Dinah Washington'],26
+188,['Phil Collins'],26
+189,['M枚tley Cr眉e'],26
+190,['Toto'],26
+191,['Dolly Parton'],26
+192,['Jimi Hendrix'],26
+193,['blink-182'],26
+194,['T. Rex'],26
+195,['Mariah Carey'],26
+196,['Warren Zevon'],26
+197,['Carpenters'],26
+198,['The Stylistics'],26
+199,['Julie Andrews'],26
+200,['Black Sabbath'],25
+201,['Simon & Garfunkel'],25
+202,['Primus'],25
+203,['Martin Denny'],25
+204,['The Shirelles'],25
+205,['Juan Gabriel'],25
+206,['Sonny Boy Williamson I'],25
+207,['David Allan Coe'],25
+208,['Slayer'],25
+209,['Tanya Tucker'],25
+210,['T-Pain'],25
+211,['Flatt & Scruggs'],25
+212,['The Flying Burrito Brothers'],25
+213,['Coldplay'],24
+214,['The Cramps'],24
+215,['Bobby Darin'],24
+216,['Blue 脰yster Cult'],24
+217,['The Everly Brothers'],24
+218,['The White Stripes'],24
+219,['Sly & the Family Stone'],24
+220,['Walter Wanderley'],24
+221,['Third Eye Blind'],24
+222,['Toby Keith'],24
+223,['George Harrison'],24
+224,['Mina'],24
+225,['Blossom Dearie'],24
+226,['Julio Iglesias'],24
+227,['XTC'],23
+228,['Sade'],23
+229,['Marc Anthony'],23
+230,['Kool & the Gang'],23
+231,['Charlie Parker'],23
+232,['Muddy Waters'],23
+233,['Curtis Mayfield'],23
+234,['Slipknot'],23
+235,['Rihanna'],23
+236,['Iron Maiden'],23
+237,['The Wailers'],23
+238,['Ray Charles'],23
+239,['The Stooges'],23
+240,['One Direction'],23
+241,['Wynton Kelly'],23
+242,['Linda Ronstadt'],23
+243,['Creedence Clearwater Revival'],23
+244,['Chris Brown'],23
+245,['Pete Seeger'],23
+246,['Miles Davis Quintet'],22
+247,['Madonna'],22
+248,['The Staple Singers'],22
+249,['Rage Against the Machine'],22
+250,"['Earth, Wind & Fire']",22
+251,['Ennio Morricone'],22
+252,['The Hollies'],22
+253,['Donovan'],22
+254,['Bread'],22
+255,['The Charlie Daniels Band'],22
+256,['Wisin & Yandel'],22
+257,['The Avett Brothers'],22
+258,['Vampire Weekend'],22
+259,['The Drifters'],22
+260,['The Chordettes'],22
+261,['Wilson Pickett'],22
+262,['Bad Company'],22
+263,['5 Seconds of Summer'],22
+264,['Bon Jovi'],22
+265,['Wire'],22
+266,['Cal Tjader'],21
+267,['Ed Sheeran'],21
+268,['Tom Petty'],21
+269,['The Specials'],21
+270,['Rod Stewart'],21
+271,['UFO'],21
+272,['Little Feat'],21
+273,['Traffic'],21
+274,['The Zombies'],21
+275,['Little Richard'],21
+276,['John Lennon'],21
+277,['Deep Purple'],21
+278,['Teena Marie'],21
+279,['Vangelis'],21
+280,['Jackson Browne'],21
+281,['Kenny Chesney'],21
+282,['Bill Evans'],21
+283,['Paul Simon'],21
+284,['The Pogues'],21
+285,['Ahmad Jamal'],21
+286,['The Meters'],21

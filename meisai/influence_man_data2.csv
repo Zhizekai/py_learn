@@ -1,0 +1,40 @@
+influencer_id,influencer_name,influencer_main_genre,influencer_active_start,follower_id,follower_name,follower_main_genre,follower_active_start,is_in_person,not_in_person,influence_val
+754032,The Beatles,Pop/Rock,1960,414745,Nils Lofgren,Pop/Rock,1960,554,61,615
+66915,Bob Dylan,Pop/Rock,1960,924508,The Waterboys,Pop/Rock,1980,322,67,389
+894465,The Rolling Stones,Pop/Rock,1960,35719,Steve Harley,Pop/Rock,1970,304,15,319
+531986,David Bowie,Pop/Rock,1960,793022,Cock Sparrer,Pop/Rock,1970,224,14,238
+139026,Led Zeppelin,Pop/Rock,1960,501407,Mot??rhead,Pop/Rock,1970,213,8,221
+354105,Jimi Hendrix,Pop/Rock,1960,961234,Dave Matthews Band,Pop/Rock,1990,151,50,201
+100160,The Kinks,Pop/Rock,1960,977209,Dirty Pretty Things,Pop/Rock,2000,192,0,192
+41874,The Beach Boys,Pop/Rock,1960,778925,Hellogoodbye,Pop/Rock,2000,180,6,186
+549797,Hank Williams,Country,1930,185615,Gary Stewart,Country,1960,97,87,184
+840402,The Velvet Underground,Pop/Rock,1960,601430,Morphine,Pop/Rock,1990,175,6,181
+771438,Black Sabbath,Pop/Rock,1960,175579,Disturbed,Pop/Rock,1990,169,2,171
+316834,Marvin Gaye,R&B;,1950,159340,Dwele,R&B;,2000,99,70,169
+180228,Elvis Presley,Pop/Rock,1950,668302,Dan Penn,Pop/Rock,1960,121,45,166
+423829,Miles Davis,Jazz,1940,503247,Miri Ben-Ari,R&B;,2000,83,77,160
+120521,Chuck Berry,Pop/Rock,1950,541125,Gerry & the Pacemakers,Pop/Rock,1950,140,19,159
+631774,The Byrds,Pop/Rock,1960,297894,Poco,Pop/Rock,1960,153,5,158
+128099,James Brown,R&B;,1950,894465,The Rolling Stones,Pop/Rock,1960,78,76,154
+418740,Sex Pistols,Pop/Rock,1970,22124,Slayer,Pop/Rock,1980,149,4,153
+577627,The Who,Pop/Rock,1960,604852,Aerosmith,Pop/Rock,1970,148,1,149
+379125,Neil Young,Pop/Rock,1960,671953,Heart,Pop/Rock,1970,141,7,148
+346336,Pink Floyd,Pop/Rock,1960,748904,Stereophonics,Pop/Rock,1990,128,14,142
+622805,Stevie Wonder,R&B;,1960,84446,India.Arie,R&B;,2000,83,55,138
+75747,The Clash,Pop/Rock,1970,37931,The Alarm,Pop/Rock,1980,131,5,136
+617196,Brian Eno,Pop/Rock,1970,148004,Dirty Projectors,Pop/Rock,2000,92,43,135
+238115,Sam Cooke,R&B;,1950,26952,Smokie Norful,Religious,2000,80,48,128
+490004,Ramones,Pop/Rock,1970,298766,Plastic Bertrand,Pop/Rock,1970,126,1,127
+175553,John Coltrane,Jazz,1940,748827,Slide Hampton,Jazz,1950,66,52,118
+562304,The Stooges,Pop/Rock,1960,235169,Rob Zombie,Pop/Rock,1990,114,2,116
+270491,Joni Mitchell,Pop/Rock,1960,834108,Sarah McLachlan,Pop/Rock,1980,84,32,116
+46861,Ray Charles,R&B;,1940,457807,O.V. Wright,R&B;,1960,44,69,113
+608701,Muddy Waters,Blues,1940,457807,O.V. Wright,R&B;,1960,33,80,113
+446509,Metallica,Pop/Rock,1980,3495279,Andy Black,Pop/Rock,2010,109,3,112
+816890,Johnny Cash,Country,1950,927736,Arlo Guthrie,Folk,1960,52,60,112
+357406,Nirvana,Pop/Rock,1980,164686,Ben Folds Five,Pop/Rock,1990,107,4,111
+104714,Kraftwerk,Electronic,1970,94890,The Legendary Pink Dots,Pop/Rock,1980,31,77,108
+79016,Billie Holiday,Vocal,1930,78044,Bill Withers,R&B;,1960,34,72,106
+489303,The Yardbirds,Pop/Rock,1960,745964,The Allman Brothers Band,Pop/Rock,1960,104,1,105
+852855,Roxy Music,Pop/Rock,1970,183858,Gary Numan,Pop/Rock,1970,98,5,103
+467203,Michael Jackson,R&B;,1960,89306,The Jets,Pop/Rock,1980,51,50,101
