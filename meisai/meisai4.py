@@ -57,13 +57,8 @@ influence_man_nodes = get_influence_man_nodes()
 # %%
 influence_man2 = influence_data["influencer_name"].value_counts()  # 统计影响者出现的次数
 influence_man2 = pd.DataFrame({'person': influence_man2.index, 'influence_value': influence_man2.values})
-influence_man_nodes3 = pd.merge(influence_man2,influence_man_nodes,on=["person"])
-
-
-
-
-
-
+influence_man_nodes3 = pd.merge(influence_man2,influence_man_nodes,on=["person"],how='right')
+influence_man_nodes = influence_man_nodes3.fillna(1)
 
 
 # %%
@@ -76,13 +71,13 @@ def generate_nodes_links():
     nodes_data1 = []  # 节点数据
     for i in np.arange(len(influence_man_nodes)):
         nodes_data1.append(opts.GraphNode(name=influence_man_nodes["person"][i],
-                                          symbol_size=10,
+                                          symbol_size=30 if int(influence_man_nodes["influence_value"][i]) > 50 else 10,
                                           category=int(influence_man_nodes["main_genre"][i])
                                           ))
-        nodes_data1.append({"name": influence_man_nodes["person"][i],
-                            # "symbol_size": 10,
-                            "category": int(influence_man_nodes["main_genre"][i])
-                            })
+        # nodes_data1.append({"name": influence_man_nodes["person"][i],
+        #                     # "symbol_size": 10,
+        #                     "category": int(influence_man_nodes["main_genre"][i])
+        #                     })
     links_data1 = []  # 关系数据 边数据
     for i in np.arange(len(influence_man_data)):
         links_data1.append(opts.GraphLink(source=influence_man_data["follower_name"][i],
@@ -94,7 +89,7 @@ def generate_nodes_links():
 nodes_data, links_data = generate_nodes_links()
 
 # %%
-cat = [{"name": "Pop/Rock", "symbol": "diamond"}]
+cat = [{"name": "Pop/Rock", "symbol": "circle"}]
 cc = {
     "R&B;": 1,
     "Country": 2,
