@@ -13,7 +13,7 @@ influence_man = pd.DataFrame({'person': influence_man.index, 'influence_value': 
 # %%
 # 获取主要影响者全部的数据并且保存到csv
 influence_man_data = influence_data[influence_data['influencer_name'].isin(influence_man["person"])]
-influence_man_data = influence_man_data.sample(1000)  # 随机抽样 保证样本比例不变，降低数据量
+influence_man_data = influence_man_data.sample(2000)  # 随机抽样 保证样本比例不变，降低数据量
 influence_man_data.index = np.arange(influence_man_data.shape[0])
 # influence_man_data.to_csv('./influence_man_full_data.csv', index=0)
 print(influence_man_data)  # 主要影响者的全部数据
@@ -110,18 +110,7 @@ cc = {
 for key in cc:
     cat.append({"name": key, "symbol": "circle"})
 # %%
-nodes = [
-    {"name": "木",   'category': 0},
-    {"name": "火",   'category': 4},
-    {"name": "土",   'category': 4},
-    {"name": "金",   'category': 4},
-    {"name": "水",   'category': 4},
-    {"name": "水1",  'category': 5},
-    {"name": "水2",  'category': 6},
-    {"name": "水3",  'category': 7},
-    {"name": "水4",  'category': 8},
-    {"name": "水5",  'category': 9},
-]
+
 c = (
     Graph(
         init_opts=opts.InitOpts(width="100%", height="700px",

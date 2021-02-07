@@ -259,7 +259,7 @@
       <workItem from="1612535859719" duration="473000" />
       <workItem from="1612573903719" duration="36936000" />
       <workItem from="1612660006205" duration="6708000" />
-      <workItem from="1612678640219" duration="17268000" />
+      <workItem from="1612678640219" duration="17924000" />
     </task>
     <task id="LOCAL-00001" summary="update: 评分卡构建训练数据">
       <created>1611903979911</created>
@@ -324,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612700137457</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update: 图形大小完成">
+      <created>1612702479386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612702479386</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -362,7 +369,8 @@
     <MESSAGE value="fix: 函数化编程" />
     <MESSAGE value="update: 准备添加种类" />
     <MESSAGE value="update: 图形的大小" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 图形的大小" />
+    <MESSAGE value="update: 图形大小完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 图形大小完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="118" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611833826988">
@@ -373,10 +381,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="464" y="195" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1611839931611" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1612700134020">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1612702477797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612700134020" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612702477797" />
     <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1611825504898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
