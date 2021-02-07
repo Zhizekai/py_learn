@@ -17,58 +17,49 @@ influence_man_data = influence_man_data.sample(1000)  # 随机抽样 保证样�
 influence_man_data.index = np.arange(influence_man_data.shape[0])
 # influence_man_data.to_csv('./influence_man_full_data.csv', index=0)
 print(influence_man_data)  # 主要影响者的全部数据
+
+
 # %%
-influence_name_data = pd.DataFrame(influence_man_data["influencer_name"].drop_duplicates())
-influence_name_data.columns = ["person"]
-follower_name_data = pd.DataFrame(influence_man_data["follower_name"].drop_duplicates())
-follower_name_data.columns = ["person"]
-influence_man_nodes = pd.concat([influence_name_data, follower_name_data], axis=0)
-influence_man_nodes = influence_man_nodes.drop_duplicates()
-influence_man_nodes.index = np.arange(influence_man_nodes.shape[0])
-print(influence_man_nodes)  # 所有歌手
+def get_influence_man_nodes():
+    influence_name_data = pd.DataFrame(influence_man_data["influencer_name"].drop_duplicates())
+    influence_name_data.columns = ["person"]
+    follower_name_data = pd.DataFrame(influence_man_data["follower_name"].drop_duplicates())
+    follower_name_data.columns = ["person"]
+    nodes = pd.concat([influence_name_data, follower_name_data], axis=0)
+    nodes = nodes.drop_duplicates()
+    nodes.index = np.arange(nodes.shape[0])
+    return nodes
+
+
+influence_man_nodes = get_influence_man_nodes()
+
 # %%
 from pyecharts import options as opts
 from pyecharts.charts import Graph
-# %%
-nodes_data = []
-# 节点数据
-for i in np.arange(len(influence_man_nodes)):
-    nodes_data.append(opts.GraphNode(name=influence_man_nodes["person"][i], symbol_size=10))
-
-links_data = []
-for i in np.arange(len(influence_man_data)):
-    links_data.append(
-        opts.GraphLink(source=influence_man_data["follower_name"][i],
-                       target=influence_man_data["influencer_name"][i], value=2))
 
 
 # %%
-# nodes_data = [
-#     opts.GraphNode(name="结点1", symbol_size=10),
-#     opts.GraphNode(name="结点2", symbol_size=20),
-#     opts.GraphNode(name="结点3", symbol_size=30),
-#     opts.GraphNode(name="结点4", symbol_size=40),
-#     opts.GraphNode(name="结点5", symbol_size=50),
-#     opts.GraphNode(name="结点6", symbol_size=60),
-# ]
-#
-# links_data = [
-#     opts.GraphLink(source="结点1", target="结点2", value=2),
-#     opts.GraphLink(source="结点2", target="结点3", value=3),
-#     opts.GraphLink(source="结点3", target="结点4", value=4),
-#     opts.GraphLink(source="结点4", target="结点5", value=5),
-#     opts.GraphLink(source="结点5", target="结点6", value=6),
-#     opts.GraphLink(source="结点6", target="结点1", value=7),
-#     opts.GraphLink(source="结点1", target="结点6", value=8),
-# ]
+def generate_nodes_links():
+    nodes_data1 = []
+    # 节点数据
+    for i in np.arange(len(influence_man_nodes)):
+        nodes_data1.append(opts.GraphNode(name=influence_man_nodes["person"][i], symbol_size=10))
+    links_data1 = []
+    for i in np.arange(len(influence_man_data)):
+        links_data1.append(opts.GraphLink(source=influence_man_data["follower_name"][i],
+                                          target=influence_man_data["influencer_name"][i], value=2))
+    return nodes_data, links_data
+
+
+nodes_data, links_data = generate_nodes_links()
+
 # %%
+
 c = (
     Graph(
-        init_opts=opts.InitOpts(width="100%",  # 图宽
-                                height="700px",  # 图高
-                                renderer="canvas",  # 渲染模式 svg 或 canvas，即 RenderType.CANVAS 或 RenderType.SVG
+        init_opts=opts.InitOpts(width="100%", height="700px",
+                                renderer="canvas"# 渲染模式 svg 或 canvas，即 RenderType.CANVAS 或 RenderType.SVG
                                 )
-
     ).add(
         "",
         nodes_data,
@@ -79,6 +70,5 @@ c = (
     ).set_global_opts(
         legend_opts=opts.LegendOpts(is_show=False),
         # title_opts=opts.TitleOpts(title="Graph-GraphNode-GraphLink-WithEdgeLabel"),
-
     ).render("graph_with_edge_options.html")
 )
