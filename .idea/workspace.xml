@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8728ed8-3409-4b98-88d3-c656abc2857b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meisai/Figure_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/song_nums.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meisai/meisai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/meisai/meisai2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meisai/meisai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/meisai/meisai3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -266,7 +269,7 @@
       <workItem from="1612573903719" duration="36936000" />
       <workItem from="1612660006205" duration="6708000" />
       <workItem from="1612678640219" duration="22682000" />
-      <workItem from="1612746543914" duration="6139000" />
+      <workItem from="1612746543914" duration="11400000" />
     </task>
     <task id="LOCAL-00001" summary="update: 评分卡构建训练数据">
       <created>1611903979911</created>
@@ -345,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612704046770</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update: 准备做玫瑰图">
+      <created>1612754436308</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612754436309</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -385,7 +395,8 @@
     <MESSAGE value="update: 图形的大小" />
     <MESSAGE value="update: 图形大小完成" />
     <MESSAGE value="update: 图形样本2000" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 图形样本2000" />
+    <MESSAGE value="update: 准备做玫瑰图" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 准备做玫瑰图" />
   </component>
   <component name="WindowStateProjectService">
     <state x="118" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611833826988">
@@ -396,10 +407,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="464" y="195" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1611839931611" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1612704043688">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1612754434376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612704043688" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612754434376" />
     <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1611825504898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
