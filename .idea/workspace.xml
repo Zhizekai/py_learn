@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8728ed8-3409-4b98-88d3-c656abc2857b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meisai/Figure_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meisai/Figure_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meisai/song_nums.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/2102422.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/Figure_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/RB_song.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/country_song.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/meisai5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/pop_man.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/pop_rock_song_feature.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meisai/pop_rock_song_feature33.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qihuo/RU1701_1020 5min MA7_10_13_34 MACD122650收益分析(1).xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meisai/full_music_data_sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/meisai/full_music_data_sample.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meisai/meisai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/meisai/meisai1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meisai/meisai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/meisai/meisai2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meisai/meisai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/meisai/meisai3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meisai/pop_rock_song.csv" beforeDir="false" afterPath="$PROJECT_DIR$/meisai/pop_rock_song.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +75,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/meisai" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -79,7 +98,7 @@
       <recent name="G:\Project\zzkml\SGD" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.meisai3">
+  <component name="RunManager" selected="Python.meisai5">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,28 +113,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo2_torch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="zzkml" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorchDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchDemo/demo2_torch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,6 +169,9 @@
       <module name="zzkml" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meisai" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -209,20 +209,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="meisai5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zzkml" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meisai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meisai/meisai5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demo2_torch" />
       <item itemvalue="Python.meisai1" />
       <item itemvalue="Python.meisai2" />
       <item itemvalue="Python.meisai3" />
       <item itemvalue="Python.meisai4" />
+      <item itemvalue="Python.meisai5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.meisai5" />
         <item itemvalue="Python.meisai3" />
         <item itemvalue="Python.meisai4" />
         <item itemvalue="Python.meisai1" />
         <item itemvalue="Python.meisai2" />
-        <item itemvalue="Python.demo2_torch" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +291,8 @@
       <workItem from="1612573903719" duration="36936000" />
       <workItem from="1612660006205" duration="6708000" />
       <workItem from="1612678640219" duration="22682000" />
-      <workItem from="1612746543914" duration="11400000" />
+      <workItem from="1612746543914" duration="37094000" />
+      <workItem from="1613397255494" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="update: 评分卡构建训练数据">
       <created>1611903979911</created>
@@ -355,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612754436309</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update: 玫瑰图做完了，准备第六问">
+      <created>1612765080080</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612765080081</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -396,7 +426,8 @@
     <MESSAGE value="update: 图形大小完成" />
     <MESSAGE value="update: 图形样本2000" />
     <MESSAGE value="update: 准备做玫瑰图" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 准备做玫瑰图" />
+    <MESSAGE value="update: 玫瑰图做完了，准备第六问" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 玫瑰图做完了，准备第六问" />
   </component>
   <component name="WindowStateProjectService">
     <state x="118" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611833826988">
@@ -407,10 +438,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="464" y="195" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1611839931611" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1612754434376">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1612765078417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612754434376" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612765078417" />
     <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1611825504898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -447,10 +478,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="339" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611839973003" />
-    <state x="364" y="36" key="SettingsEditor" timestamp="1611888930753">
+    <state x="364" y="36" key="SettingsEditor" timestamp="1612775774553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="364" y="36" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611888930753" />
+    <state x="364" y="36" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612775774553" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612704064139">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -463,10 +494,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="273" y="117" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1536.824@0.0.1536.824" timestamp="1611840879874" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1612746543938">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1613397255140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1612746543938" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1613397255140" />
     <state x="489" y="203" key="git4idea.merge.GitPullDialog" timestamp="1611725572692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

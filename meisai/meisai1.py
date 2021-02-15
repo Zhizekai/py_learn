@@ -1,4 +1,7 @@
 # %%
+
+# 这个主要构建散点图，关系图，知识图谱
+# 先做歌手提取，再去重
 import numpy as np
 import pandas as pd
 

@@ -31,11 +31,3 @@ full_music_data_sample.to_csv("./full_music_data_sample.csv", index=False)
 # %%
 full_corr = full_music_data_sample.corr(method='pearson')
 full_corr.to_csv("./full_corr.csv")
-# %%
-# 找出pop/rock 类型的所有歌曲
-full_music_data = pd.read_csv('./full_music_data.csv', chunksize=20000)
-# %%
-full_music_data_sample = pd.DataFrame([])
-for chunk in full_music_data:
-    full_music_data_sample = pd.concat([full_music_data_sample, chunk.sample(5000)], axis=0)
-    print(chunk.shape)

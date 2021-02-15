@@ -76,14 +76,12 @@ def sns_plot():
     sns.jointplot(x=pca_dir[:, 0], y=pca_dir[:, 1], data=pca_dir, kind='kde')
 
 
+
 # %%
 # def get_data_by_year():
 data_by_year = pd.read_csv('./data_by_year.csv')
 data_by_year["year"] = pd.to_datetime(data_by_year["year"], format="%Y")
-
 data_by_year = data_by_year.set_index('year')
-
-
 # %%
 def guiyi(df):
     df = (df - df.min()) / (df.max() - df.min())
